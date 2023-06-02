@@ -1,7 +1,8 @@
 # SB语录
 [![SB-Quotation Shit](https://img.shields.io/static/v1?label=SB-Quotation&message=Shit&color=7B5804)](https://github.com/icer233/SB-Quotation)
-
+## 简介
 这是一个由Q币的同学和老师的语录组成的项目
+## 语录
 
 | 语录                                       | 说话者 | 身份 |  对方   |
 | :----------------------------------------- | :-----: | :-----: | :-----: |
@@ -167,3 +168,10 @@
 |   小狗狗~                    | OSH    |  XS  |         |
 
 >ε=ε=ε=┏(゜ロ゜;)┛
+## 出现次数榜单
+>>>>>>> 1. TYL 40次
+>>>>> 2. ZZX 35次
+>>3. OSH 17次
+>>3. WJH 17次
+>5. YLH 16次
+>5. CZM 16次
