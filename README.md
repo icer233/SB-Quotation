@@ -124,3 +124,30 @@
 | 徐老师，有人QJ                             |  WYX   |  XS  |         |
 | 我打断了他三条腿                           |   XJ   | BZR  |         |
 | 让YLH来吧，她很擅长的                      |  ZSH   |  XS  |         |
+|  我没吃她                     |  WJH    |  XS  |   CZM      |
+| 我随时可以满足你                      | WJH    |  XS  |  TLH       |
+| 你默认了啊，我来了啊                      | WJH    |  XS  |   YLH      |
+| 你cu了吗                      | YLH    |  XS  | ZZX        |
+| 我要c死YLH，她没有小jj                      | WJH    |  XS  |         |
+|  TYL你好大啊                     |  XJW   |  XS  | TYL        |
+|  本来就是                     |  TYL   |  XS  | XJW        |
+|  我比你大一倍                     | TYL    |  XS  |  FSH       |
+|   我c你2w下                    |WJH     |  XS  | YLH        |
+|   快五一了，放个片吧                    | XJW    |  XS  |         |
+|   CZM好大，胸大                    |ZZX     |  XS  |         |
+|   LZY，大了啊                    | LL    |  YYLS  |   LZY      |
+|  SZX要服务CZM                     |  YLH   |  XS  |         |
+|  你快过来，TT                     |  ZZX   |  XS  |    TYL     |
+|   你觉得我有你大吗？                    | SZX    |  XS  |   CZM      |
+|  你要把它插进去                     | CZM    |  XS  | TYL        |
+| 他为什么要插进去呢                      |  WLP   |  YWLS  |         |
+|  你真大                     |ZZX     |  XS  | TYL        |
+|     我也热                  | YLH    |  XS  |         |
+|       我射CZM脸上了                |  SZX   |  XS  |         |
+| 2个L(ZY)可以满足3个Y(LH)                      |  XJ   |  BZR  |         |
+| 你比LZY还大                      | YLH    |  XS  |  CZM       |
+|   CZM你可以啊                    |TYL     |  XS  |         |
+|  CZM遮羞布被拉下来了                     | WJH    |  XS  |         |
+|   你妈j大                    | WJH    |  XS  |         |
+|  你chao人                     | CYY    |  TYLS  |         |
+|    CSJ啊，很细啊                   |  WLP   |  YWLS  |      CSJ   |
