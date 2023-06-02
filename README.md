@@ -33,7 +33,7 @@
 | 我把TYL搞（踹）湿了                        |  LSH   |  XS  |         |
 | 沸羊羊你扒他Bra                            |  THY   |  XS  |         |
 | 玩桃桃                                     |  ZDY   |  XS  |         |
-| 通知时间最长的B                            |  CDB   | XXGJ |         |
+| 统治时间最长的B                            |  CDB   | XXGJ |         |
 | 我想发掘所有女生的美                       |  ZZX   |  XS  |         |
 | OSH你要穿渔网袜                            |  WJH   |  XS  |         |
 | 我想要                                     |  GYF   |  XS  |         |
