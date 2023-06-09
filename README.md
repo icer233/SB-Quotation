@@ -7,7 +7,7 @@
 | 语录                                       | 说话者 | 身份 |  对方   |
 | :----------------------------------------- | :-----: | :-----: | :-----: |
 | 你多大？                                   |  ZZX   |  XS  |   TYL   |
-| 你和谁做（坐）                         |  ZZX   |  XS  |   TYL   |
+| 你和谁做                         |  ZZX   |  XS  |   TYL   |
 | 那里不可以~                                |  SZX   |  XS  |   YLH   |
 | 又不是没见过~                              |  YLH   |  XS  |   SZX   |
 | 我家里没人                                 |  CSJ   |  XS  |         |
@@ -25,12 +25,12 @@
 | 男人就要脱衣服                             |  LZY   |  XS  |         |
 | 我是X                                      |  ZDY   |  XS  |         |
 | 今天不行，我明天会来                       |  TYL   |  XS  |         |
-| 我焯（抄）TYL焯（抄）了一周末              |  ZZX   |  XS  |         |
+| 我焯TYL焯了一周末              |  ZZX   |  XS  |         |
 | 我要~                                      |  ZZX   |  XS  |         |
 | 屁股血流不止                               |  SYM   | WLLS |         |
 | 不是发烧是发骚                             |  SYM   | WLLS |         |
 | 奖励你一个，CSJ                            |  SYM   | WLLS |   CSJ   |
-| 我把TYL搞（踹）湿了                        |  LSH   |  XS  |         |
+| 我把TYL搞湿了                        |  LSH   |  XS  |         |
 | 沸羊羊你扒他Bra                            |  THY   |  XS  |         |
 | 玩桃桃                                     |  ZDY   |  XS  |         |
 | 统治时间最长的B                            |  CDB   | XXGJ |         |
@@ -67,7 +67,7 @@
 | Girls，let‘s go                            |  XJW   |  XS  |   TYL   |
 | 我本来以为我已经很骚了，没想到你更骚       |  ZQY   |  XS  |   WJH   |
 | 你不要插到甲里去，它实际和甲不发生任何关系 |  SYM   | WLLS |         |
-| 我要好好调教（教育）YLH                    |  OSH   |  XS  |         |
+| 我要好好调教YLH                    |  OSH   |  XS  |         |
 | 你不要往里面乱射！                         |  SJW   |  XS  |   OSH   |
 | 这个跟我的长度差不多                       |  TYL   |  XS  |         |
 | 阿长与长毛发生过关系啊？                   |  WLP   | YWLS |         |
@@ -81,7 +81,7 @@
 | 好快啊                                     |  ZZX   |  XS  |   TYL   |
 | 我湿透了                                   |  ZQY   |  XS  |         |
 | 湿身诱惑                                   |  ZZX   |  XS  |   ZZx   |
-| 我可以直接把LYZ的变成A篇（片）         |   LL   | YYLS |         |
+| 我可以直接把LYZ的变成A片        |   LL   | YYLS |         |
 | 被你们玩坏了吧                             |   LL   | YYLS |         |
 | 我被XJW戳坏了                              |  CZM   |  XS  |         |
 | 我大                                       |  LZY   |  XS  |   SYM   |
@@ -93,7 +93,7 @@
 | 我插到了吗                                 |  WJH   |  XS  |         |
 | 你们两个搞什么啊？搞来搞去的               |  WJH   |  XS  | CZM&YLH |
 | ——你家里有人吗？  ——我家里没人             |  TYL   |  XS  |   WYX   |
-| 你快写，写完了我焯（抄）你                 |  ZZX   |  XS  |   TYL   |
+| 你快写，写完了我焯你                 |  ZZX   |  XS  |   TYL   |
 | 你TM把我笔射坏了                           |  ZZX   |  XS  |   XJW   |
 | 你再给我叽叽叽                             |   XJ   | BZR  |         |
 | 被炒爆                                     |  GYF   |  XS  |         |
@@ -114,7 +114,7 @@
 | 我自己会，你别搞                           |  WJH   |  XS  |         |
 | 我就插在这儿                               |   LL   | YYLS |         |
 | You're so hot                              |  ZZX   |  XS  |   TYL   |
-| ——你和谁做（坐）  ——无所谓                 |   XJ   | BZR  |   ZZX   |
+| ——你和谁做  ——无所谓                 |   XJ   | BZR  |   ZZX   |
 | 我见多识广，什么都看过                     |  CZM   |  XS  |         |
 | YZY，你做了吗                              |  YLH   |  XS  |   YZY   |
 | 欧哥你喷我一脸水                           |  TYL   |  XS  |         |
@@ -166,16 +166,50 @@
 |  小桃桃~                     |OSH     |  XS  |         |
 |   小乐乐~                    | OSH    |  XS  |         |
 |   小狗狗~                    | OSH    |  XS  |         |
+|  小球球你不可以这样                    | FSH    |  XS  |         |
+|  FSH太短了                    | WJH    |  XS  |         |
+|  XJW不要搞了，要玩坏了                    |TYL     |  XS  |         |
+|  我要亲你2分钟                    | TYL    |  XS  |         |
+|   我干嘛~                   | XHT    |  XS  |         |
+|   你这么大啦！                   |  LL   |  YYLS  |         |
+|   TYL现在是我的了                   | ZZX    |  XS  |         |
+|  你好硬                    |TYL     |  XS  | ZZX        |
+|  啊……啊！啊——啊~！啊……                    |TYL     |  XS  |         |
+| 你顶到我了                     | TYL    |  XS  | ZZX        |
+| 这不得鸡死你吗？                     | SYM    |  WLLS  |         |
+|  别焯了                    | SYM    |  WLLS  | SJW        |
+|  太短了，XJW比YZY短                    | WLP    |  YWLS  |         |
+|  你对我啥都干了                    | TYL    |  ZZX  |         |
+|  干脆都不穿得了                    | TYL    |  XS  |         |
+| 我是用手插的(TYL)                     |ZZX     |  XS  |         |
+| 加了精子吗？                     | TYL    |  XS  |         |
+|  你为什么不把他插掉                    |TYL     |  XS  |    ZZX     |
+| 又坏了~                     |  TYL   |  XS  |         |
+|  十年后我也要为人妻了                    | ZZX    |  XS  |         |
+|  c你自己这个事你自己要管好啊                    | XJ    |  BZR  |  YZY       |
+| 我昨晚湿身了                     | TYL    |  XS  |         |
+|   一个洞可以插两个                   |  ZDY   |  XS  |         |
+| 你就不能不要点到奇奇怪怪的地方吗          |TYL     |  XS  | ZZX        |
+| 我腿不行了，被TYL搞虚了                     | ZZX    |  XS  |         |
+| 现在我是你的了                     |TYL     |  XS  |  ZZX       |
+| 大胖桃子一点都不丰满                     | ZZX    |  XS  |         |
+| TYL QJ我                     | ZZX    |  XS  |         |
+|  你有坤坤吗？坤坤哥哥只能我一个人有         | ZZX    |  XS  |         |
+| 给我吻                     |XJW     |  XS  |YLH         |
+|  给齐老看门的ZY                    | WLP    |  YWLS  |         |
 
 >ε=ε=ε=┏(゜ロ゜;)┛
 ## 出现次数榜单
->>>>>>> 1. TYL 40次
->>>>> 2. ZZX 35次
->>3. OSH 17次
->>3. WJH 17次
->5. YLH 16次
->5. CZM 16次
+>>>>>>>>>>>>>>TYL 57
 
+>>>>>>>>>>ZZX 48
 
+>>>WJH 18
 
-**注：出现次数=“说话者”次数+“对方”次数**
+>>YLH 17
+
+>>OSH 17
+
+>CZM 16
+
+**注：出现次数=先删除上次的榜单再`CTRL+F`进行查找**
