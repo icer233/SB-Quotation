@@ -1,5 +1,5 @@
 # SB语录
-[![SB-Quotation Shit](https://img.shields.io/static/v1?label=SB-Quotation&message=Shit&color=7B5804)](https://github.com/icer233/SB-Quotation)
+![SB-Quotation Shit](https://img.shields.io/static/v1?label=SB-Quotation&message=Shit&color=7B5804)
 ## 简介
 这是一个由Q币的同学和老师的语录组成的项目
 ## 语录
@@ -341,6 +341,34 @@
 | 332 | 错了我要chao死你啊 | LL | YYLS | |
 | 333 | 她又不是没做过 | TYL | XS | |
 | 334 | ZDY你不要屁股对着我啊 | SYM | WLLS | |
+| 335 | 我的另一半呢 | LZY | XS | |
+| 336 | 我是第一个插球的人 | WYX | XS | |
+| 337 | OSH你有阴道吗 | ZZX | XS | |
+| 338 | 做谁呢？做谁呢？做完拍照发群里 | SJF | XS | |
+| 339 | 我是不是要发群里？ | CSJ | XS | |
+| 340 | 作业不能给你抄，但是我可以焯你 | LY | XS | ZQY |
+| 341 | 你有事我把你撅了，你没事我也把你撅了 | LY | XS | ZQY |
+| 342 | 我不要袭胸 | LZY | XS | |
+| 343 | 我以吃屎为生 | LZY | XS | |
+| 344 | 我都穿裙子了你还不满足 | TYL | XS | LZY |
+| 345 | 我屌上有TYL | WJH | XS | |
+| 346 | 左边的鸡都没有套 | SJF | XS | |
+| 347 | CZM喷水了 | TYL | XS | |
+| 348 | OSH去男厕所给CZM接水 | TYL | XS | |
+| 349 | 他肯定没有我懂得多 | SYM | WLLS | |
+| 350 | CZM不穿衣服也能勾引我 | OSH | XS | |
+| 351 | 我射了bi | WJH | XS | |
+| 352 | ZSH好大 | YLH | XS | |
+| 353 | CSJ我来焯你 | SJW | XS | |
+| 354 | 我JY特别多 | LSH | XS | |
+| 355 | 我直得很久 | LSH | XS | |
+| 356 | 你今天真好看 | LZY | XS | CZM |
+| 357 | 别人选择了搞事业而你选择了一个睾丸 | LY | XS | LL |
+| 358 | 我把SZX送走了 | LZY | XS | |
+| 359 | SZX78有问题 | XJW | XS | |
+| 360 | 我要雨露均沾 | CZM | XS | |
+| 361 | 我嘴里含着长长的圆柱体 | SJW | XS | |
+| 362 | XJW插歪了射CZM脸上了 | LY | XS | |
 
 
 >ε=ε=ε=┏(゜ロ゜;)┛
@@ -350,12 +378,12 @@
 
 | 排名 | 名字 | 次数 |
 | :--: | :----------: | :--: |
-|  1   | TYL | 74 |
-|  2   | ZZX | 69 |
-|  3   | CZM | 41 |
-|  4   | XJW | 40 |
-|  5   | SZX | 29 |
-| 5 | YLH | 29 |
+|  1   | TYL | 78 |
+|  2   | ZZX | 70 |
+|  3   | CZM | 47 |
+|  4   | XJW | 42 |
+|  5   | SZX | 31 |
+
 
 
 **注：出现次数=先删除上次的榜单再`CTRL+F`进行查找**
