@@ -483,6 +483,40 @@
 | 474 | CZM抱OSH diao | ZZX | XS | |
 | 475 | 卡在中间不难受 | YLH | XS | |
 | 476 | 我有备胎 | SYM | WLLS | |
+| **477** | **别c我了** | **TYL** | **XS** | **ZZX** |
+| 478 | 我被多轮了一轮 | TYL | XS |  |
+| 479 | CZM给OSH cha | TYL | XS | |
+| 480 | ZQY和WJH一个上面一个下面 | ZY | LSLS | |
+| 481 | 重LY，亲我 | XJW | XS | ZQY |
+| 482 | THY也很大 | SYM | WLLS | |
+| 483 | 你的给我吃一下 | CSJ | XS | SJW |
+| 484 | 我要喝你的水 | CSJ | XS | SJW |
+| 485 | 我只想看A片 | TYL | XS |  |
+| 486 | 我喜欢看硬男 | YLH | XS |  |
+| 487 | ZZX好硬 | PX | HXLS |  |
+| 488 | 谁有了？ | ZZX | XS | TYL |
+| 489 | 我有了 | TYL | XS | ZZX |
+| 490 | 我要把水挤到你的嘴里 | ZZX | XS | TYL |
+| 491 | 一点tv都没有（？） | LY | XS |  |
+| 492 | XYJ早就生了 | WLP | YWLS |  |
+| 493 | 我自（己安）慰（我自己） | OSH | XS |  |
+| 494 | 怎么还有用嘴的（鼓掌声） | CZM | XS |  |
+| 495 | CZM做了两天做了一半就不做了 | TYL | XS |  |
+| 496 | LY拿我打胶 | ZZX | XS |  |
+| 497 | 我觉得轻一点比较好听 | CZM | XS |  |
+| 498 | 我不只45 | CZM | XS |  |
+| 499 | 快做 | CZM | XS | TYL |
+| 500 | 艺术就是SQ | ZDY | XS |  |
+| 501 | 我刚刚没做欸 | TYL | XS |  |
+| 502 | 你还chao不chao了 | TYL | XS | ZZX |
+| 503 | 还差一半，chao吗 | TYL | XS | ZZX |
+| 504 | 还差一半，chao吗 | TYL | XS | ZZX |
+| 505 | 还差一半，chao吗 | TYL | XS | ZZX |
+| 506 | 除非忍不住 | OSH | XS |  |
+| 507 | 你先不要打胶 | LL | YYLS |  |
+| 508 | 涨姿势了 | TYL | XS |  |
+| 509 | 快插，快点 | TYL | XS | ZZX |
+| 510 | 我一般都是直接的 | OSH | XS |  |
 
 
 >ε=ε=ε=┏(゜ロ゜;)┛
@@ -492,12 +526,12 @@
 
 | 排名 | 名字 | 次数 |
 | :--: | :----------: | :--: |
-|  1   | TYL | 99 |
-|  2   | ZZX | 88 |
-|  3   | CZM | 70 |
-|  4   | XJW | 61 |
-|  5   | YLH | 45 |
-| 5 | OSH | 43 |
+|  1   | TYL | 115 |
+|  2   | ZZX | 99 |
+|  3   | CZM | 76 |
+|  4   | XJW | 62 |
+|  5   | OSH  |  47  |
+|  6   | YLH  |  46  |
 
 
 
