@@ -81,7 +81,7 @@
 |   73    |                   好快啊                   |   ZZX   |   XS   |       TYL       |
 |   74    |                  我湿透了                  |   ZQY   |   XS   |                 |
 |   75    |                  湿身诱惑                  |   ZZX   |   XS   |                 |
-|   76    |          我可以直接把LYZ的变成A片          |   LL    |  YYLS  |                 |
+|   76    |          我可以直接把LZY的变成A片          |   LL    |  YYLS  |                 |
 |   77    |               被你们玩坏了吧               |   LL    |  YYLS  |                 |
 |   78    |               我被XJW戳坏了                |   CZM   |   XS   |                 |
 |   79    |                    我大                    |   LZY   |   XS   |       SYM       |
