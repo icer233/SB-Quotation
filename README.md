@@ -583,6 +583,54 @@
 |   574   |              刘澈我还能摸一摸              |   LL    |  YYLS  |                 |
 |   575   |               去小穴回滚以下               |   PX    |  HXLS  |       OSH       |
 |   576   |              LY在我面前打手枪              |   PX    |  HXLS  |                 |
+|   577   |            liang chen有没有焯过            |   SYM   |  WLLS  |                 |
+|   578   |                 生殖是什么                 |   LYX   |   XS   |                 |
+|   579   |                 我去和LY插                 |   LYX   |   XS   |                 |
+|   580   |                  我要卖淫                  |   LZY   |   XS   |                 |
+|   581   |                   谁要卖                   |   XJ    |  BZR   |                 |
+|   582   |                 LY萎了多次                 |   ZQY   |   XS   |                 |
+|   583   |              （和WZX）玩脱了               |   YLH   |   XS   |                 |
+|   584   |                 我要去产检                 |   YLH   |   XS   |                 |
+|   585   |                 我没穿衣服                 |   XJW   |   XS   |                 |
+|   586   |                  YLH立了                   |   ZSH   |   XS   |                 |
+|   587   |            我要日爆世上所有女人            |   ZSH   |   XS   |                 |
+|   588   |                  YLH 15P                   |   ZSH   |   XS   |                 |
+|   589   |                   小傻瓜                   |   SJW   |   XS   |       LY        |
+|   590   |             我一边吃饭一边看片             |   YLH   |   XS   |                 |
+|   591   |                 我做不动了                 |   YLH   |   XS   |       WZX       |
+|   592   |                你立的我心慌                |   YXG   |  TYLS  |       WYX       |
+|   593   |            CZM竖起来XJW才看得到            |   WLP   |  YWLS  |                 |
+|   594   |                我喜欢和XW交                |   LZY   |   XS   |                 |
+|   595   |                 LY挺好玩的                 |   MJN   |   XS   |                 |
+|   596   |                ZSH起来了啊                 |   PX    |  HXLS  |                 |
+|   597   |                 我老婆生了                 |   LZY   |   XS   |                 |
+|   598   |        CZM私自在书包里保存一个大JB         |   LZY   |   XS   |                 |
+|   599   |          没想到CZM喜欢用这么大的           |   LZY   |   XS   |                 |
+|   600   |                   她强我                   |   LY    |   XS   |       LYX       |
+|   601   |                 我要给你抱                 |   LY    |   XS   |       LYX       |
+|   602   |                 我gang交了                 |   LZY   |   XS   |                 |
+|   603   |                ZZX炒不过CZM                |   XYJ   |  SXLS  |                 |
+|   604   |       我感受到高潮的感觉，让我想紫薇       |   LZY   |   XS   |                 |
+|   605   |                 我夹不住了                 |   YLH   |   XS   |                 |
+|   606   |               射南射北皆春水               |   CZM   |   XS   |                 |
+|   607   |              我喜欢吃别人包皮              |   LZY   |   XS   |                 |
+|   608   |                 痒痒，亲亲                 |   PX    |  HXLS  |                 |
+|   609   |           LYZ，YLH，CZM太性感了            |   LZY   |   XS   |                 |
+|   610   | 你要是在八班就好了，我们以后都不能一起做了 |   WZX   |   XS   |       YLH       |
+|   611   |                   我还要                   |   YLH   |   XS   |       YZY       |
+|   612   |               WZX是我的答案                |   YLH   |   XS   |                 |
+|   613   |                 我可是设了                 |   DLZ   |   XS   |                 |
+|   614   |        CZM包炒不了的，立都立不起来         |   XJW   |   XS   |                 |
+|   615   |                  你还要？                  |   WZX   |   XS   |       YLH       |
+|   616   |            CSJ是白虎，喜欢白虎             |   ZZX   |   XS   |                 |
+|   617   |                  要夹吗？                  |   CZM   |   XS   |       ZZX       |
+|   618   |            我给你看过，我都做过            |   YLH   |   XS   |       WZX       |
+|   619   |                你想怎么色色                |   PX    |  HXLS  |       XJW       |
+|   620   |                OSH抱球睡觉                 |   PX    |  HXLS  |                 |
+|   621   |             CZM的头更像gui tou             |   LZY   |   XS   |                 |
+|   622   |              焯一焯最多5分钟               |   WZX   |   XS   |       YLH       |
+|   623   |               YLH不动就WZX动               |   PX    |  HXLS  |                 |
+|   624   |               你干了还说你妈               |   WLP   |  YWLS  |       LY        |
 
 >ε=ε=ε=┏(゜ロ゜;)┛
 
@@ -592,10 +640,10 @@
 | 排名 | 名字 | 次数 |
 | :--: | :--: | :--: |
 |  1   | TYL  | 128  |
-|  2   | ZZX  | 108  |
-|  3   | CZM  |  84  |
-|  4   | XJW  |  68  |
-|  5   | OSH  |  57  |
+|  2   | ZZX  | 111  |
+|  3   | CZM  |  93  |
+|  4   | XJW  |  72  |
+|  5   | OSH  |  67  |
 
 
 
